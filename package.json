@@ -55,11 +55,8 @@
     "webpack": "^1.4.7",
     "webpack-dev-server": "^1.6.5"
   },
-  "dependencies": {
-    "react": "^0.13.0"
-  },
   "peerDependencies": {
-    "react": "^0.13.0"
+    "react": ">=0.13.0"
   },
   "jest": {
     "scriptPreprocessor": "<rootDir>/test/__preprocessor__.js",
